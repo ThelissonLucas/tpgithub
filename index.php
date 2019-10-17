@@ -15,7 +15,7 @@ else{
 
 $fichier = controleurPrincipal($action);
 include "$racine/controleur/$fichier";
-
+ // TOP DELIRE MEGA GROOVE
 
 ?>
      
